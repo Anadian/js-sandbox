@@ -138,3 +138,267 @@ emerg: Yo. {"timestamp":"2019-05-12T20:09:28.342Z","at":"2019-05-12T20:09:28.342
 2019-05-14T00:19:21.798Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:crit: Yo 2
 2019-05-14T00:19:21.798Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:alert: Yo 2
 2019-05-14T00:19:21.798Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:emerg: Yo 2
+2019-05-15T18:39:34.209Z js-sandbox:JSSandbox:main.js:debug: Yo.
+2019-05-15T18:39:34.212Z js-sandbox:JSSandbox:main.js:info: Yo.
+2019-05-15T18:39:34.212Z js-sandbox:JSSandbox:main.js:note: Yo.
+2019-05-15T18:39:34.212Z js-sandbox:JSSandbox:main.js:warn: Yo.
+2019-05-15T18:39:34.213Z js-sandbox:JSSandbox:main.js:error: Yo.
+2019-05-15T18:39:34.213Z js-sandbox:JSSandbox:main.js:crit: Yo.
+2019-05-15T18:39:34.213Z js-sandbox:JSSandbox:main.js:alert: Yo.
+2019-05-15T18:39:34.213Z js-sandbox:JSSandbox:main.js:emerg: Yo.
+2019-05-15T18:39:34.214Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:debug: Yo 2
+2019-05-15T18:39:34.214Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:info: Yo 2
+2019-05-15T18:39:34.214Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:note: Yo 2
+2019-05-15T18:39:34.214Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:warn: Yo 2
+2019-05-15T18:39:34.215Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:error: Yo 2
+2019-05-15T18:39:34.215Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:crit: Yo 2
+2019-05-15T18:39:34.215Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:alert: Yo 2
+2019-05-15T18:39:34.215Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:emerg: Yo 2
+2019-05-15T18:44:47.613Z js-sandbox:JSSandbox:main.js:debug: Yo.
+2019-05-15T18:44:47.619Z js-sandbox:JSSandbox:main.js:info: Yo.
+2019-05-15T18:44:47.619Z js-sandbox:JSSandbox:main.js:note: Yo.
+2019-05-15T18:44:47.620Z js-sandbox:JSSandbox:main.js:warn: Yo.
+2019-05-15T18:44:47.620Z js-sandbox:JSSandbox:main.js:error: Yo.
+2019-05-15T18:44:47.621Z js-sandbox:JSSandbox:main.js:crit: Yo.
+2019-05-15T18:44:47.621Z js-sandbox:JSSandbox:main.js:alert: Yo.
+2019-05-15T18:44:47.621Z js-sandbox:JSSandbox:main.js:emerg: Yo.
+2019-05-15T18:44:47.622Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:debug: Yo 2
+2019-05-15T18:44:47.622Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:info: Yo 2
+2019-05-15T18:44:47.623Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:note: Yo 2
+2019-05-15T18:44:47.623Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:warn: Yo 2
+2019-05-15T18:44:47.623Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:error: Yo 2
+2019-05-15T18:44:47.623Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:crit: Yo 2
+2019-05-15T18:44:47.624Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:alert: Yo 2
+2019-05-15T18:44:47.624Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:emerg: Yo 2
+2019-05-15T18:47:45.908Z js-sandbox:JSSandbox:main.js:debug: Yo.
+2019-05-15T18:47:45.910Z js-sandbox:JSSandbox:main.js:info: Yo.
+2019-05-15T18:47:45.911Z js-sandbox:JSSandbox:main.js:note: Yo.
+2019-05-15T18:47:45.911Z js-sandbox:JSSandbox:main.js:warn: Yo.
+2019-05-15T18:47:45.911Z js-sandbox:JSSandbox:main.js:error: Yo.
+2019-05-15T18:47:45.911Z js-sandbox:JSSandbox:main.js:crit: Yo.
+2019-05-15T18:47:45.912Z js-sandbox:JSSandbox:main.js:alert: Yo.
+2019-05-15T18:47:45.912Z js-sandbox:JSSandbox:main.js:emerg: Yo.
+2019-05-15T18:47:45.913Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:debug: Yo 2
+2019-05-15T18:47:45.913Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:info: Yo 2
+2019-05-15T18:47:45.913Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:note: Yo 2
+2019-05-15T18:47:45.913Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:warn: Yo 2
+2019-05-15T18:47:45.914Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:error: Yo 2
+2019-05-15T18:47:45.914Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:crit: Yo 2
+2019-05-15T18:47:45.914Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:alert: Yo 2
+2019-05-15T18:47:45.914Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:emerg: Yo 2
+2019-05-15T18:49:53.249Z js-sandbox:JSSandbox:main.js:debug: Yo.
+2019-05-15T18:49:53.252Z js-sandbox:JSSandbox:main.js:info: Yo.
+2019-05-15T18:49:53.252Z js-sandbox:JSSandbox:main.js:note: Yo.
+2019-05-15T18:49:53.252Z js-sandbox:JSSandbox:main.js:warn: Yo.
+2019-05-15T18:49:53.253Z js-sandbox:JSSandbox:main.js:error: Yo.
+2019-05-15T18:49:53.253Z js-sandbox:JSSandbox:main.js:crit: Yo.
+2019-05-15T18:49:53.253Z js-sandbox:JSSandbox:main.js:alert: Yo.
+2019-05-15T18:49:53.253Z js-sandbox:JSSandbox:main.js:emerg: Yo.
+2019-05-15T18:49:53.254Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:debug: Yo 2
+2019-05-15T18:49:53.254Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:info: Yo 2
+2019-05-15T18:49:53.255Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:note: Yo 2
+2019-05-15T18:49:53.255Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:warn: Yo 2
+2019-05-15T18:49:53.255Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:error: Yo 2
+2019-05-15T18:49:53.255Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:crit: Yo 2
+2019-05-15T18:49:53.255Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:alert: Yo 2
+2019-05-15T18:49:53.256Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:emerg: Yo 2
+2019-05-15T18:57:30.401Z js-sandbox:JSSandbox:main.js:debug: Yo.
+2019-05-15T18:57:30.405Z js-sandbox:JSSandbox:main.js:info: Yo.
+2019-05-15T18:57:30.411Z js-sandbox:JSSandbox:main.js:note: Yo.
+2019-05-15T18:57:30.412Z js-sandbox:JSSandbox:main.js:warn: Yo.
+2019-05-15T18:57:30.412Z js-sandbox:JSSandbox:main.js:error: Yo.
+2019-05-15T18:57:30.413Z js-sandbox:JSSandbox:main.js:crit: Yo.
+2019-05-15T18:57:30.414Z js-sandbox:JSSandbox:main.js:alert: Yo.
+2019-05-15T18:57:30.414Z js-sandbox:JSSandbox:main.js:emerg: Yo.
+2019-05-15T18:57:30.418Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:debug: Yo 2
+2019-05-15T18:57:30.419Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:info: Yo 2
+2019-05-15T18:57:30.419Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:note: Yo 2
+2019-05-15T18:57:30.419Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:warn: Yo 2
+2019-05-15T18:57:30.420Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:error: Yo 2
+2019-05-15T18:57:30.420Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:crit: Yo 2
+2019-05-15T18:57:30.420Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:alert: Yo 2
+2019-05-15T18:57:30.420Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:emerg: Yo 2
+2019-05-15T18:58:10.342Z js-sandbox:JSSandbox:main.js:debug: Yo.
+2019-05-15T18:58:10.344Z js-sandbox:JSSandbox:main.js:info: Yo.
+2019-05-15T18:58:10.345Z js-sandbox:JSSandbox:main.js:note: Yo.
+2019-05-15T18:58:10.345Z js-sandbox:JSSandbox:main.js:warn: Yo.
+2019-05-15T18:58:10.345Z js-sandbox:JSSandbox:main.js:error: Yo.
+2019-05-15T18:58:10.345Z js-sandbox:JSSandbox:main.js:crit: Yo.
+2019-05-15T18:58:10.346Z js-sandbox:JSSandbox:main.js:alert: Yo.
+2019-05-15T18:58:10.346Z js-sandbox:JSSandbox:main.js:emerg: Yo.
+2019-05-15T18:58:10.346Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:debug: Yo 2
+2019-05-15T18:58:10.347Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:info: Yo 2
+2019-05-15T18:58:10.347Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:note: Yo 2
+2019-05-15T18:58:10.347Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:warn: Yo 2
+2019-05-15T18:58:10.347Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:error: Yo 2
+2019-05-15T18:58:10.348Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:crit: Yo 2
+2019-05-15T18:58:10.348Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:alert: Yo 2
+2019-05-15T18:58:10.348Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:emerg: Yo 2
+2019-05-15T19:01:03.761Z js-sandbox:JSSandbox:main.js:debug: Yo.
+2019-05-15T19:01:03.764Z js-sandbox:JSSandbox:main.js:info: Yo.
+2019-05-15T19:01:03.764Z js-sandbox:JSSandbox:main.js:note: Yo.
+2019-05-15T19:01:03.764Z js-sandbox:JSSandbox:main.js:warn: Yo.
+2019-05-15T19:01:03.764Z js-sandbox:JSSandbox:main.js:error: Yo.
+2019-05-15T19:01:03.765Z js-sandbox:JSSandbox:main.js:crit: Yo.
+2019-05-15T19:01:03.765Z js-sandbox:JSSandbox:main.js:alert: Yo.
+2019-05-15T19:01:03.767Z js-sandbox:JSSandbox:main.js:emerg: Yo.
+2019-05-15T19:01:03.768Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:debug: Yo 2
+2019-05-15T19:01:03.769Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:info: Yo 2
+2019-05-15T19:01:03.769Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:note: Yo 2
+2019-05-15T19:01:03.770Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:warn: Yo 2
+2019-05-15T19:01:03.770Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:error: Yo 2
+2019-05-15T19:01:03.771Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:crit: Yo 2
+2019-05-15T19:01:03.771Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:alert: Yo 2
+2019-05-15T19:01:03.771Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:emerg: Yo 2
+2019-05-15T19:01:47.442Z js-sandbox:JSSandbox:main.js:debug: Yo.
+2019-05-15T19:01:47.444Z js-sandbox:JSSandbox:main.js:info: Yo.
+2019-05-15T19:01:47.445Z js-sandbox:JSSandbox:main.js:note: Yo.
+2019-05-15T19:01:47.445Z js-sandbox:JSSandbox:main.js:warn: Yo.
+2019-05-15T19:01:47.445Z js-sandbox:JSSandbox:main.js:error: Yo.
+2019-05-15T19:01:47.446Z js-sandbox:JSSandbox:main.js:crit: Yo.
+2019-05-15T19:01:47.446Z js-sandbox:JSSandbox:main.js:alert: Yo.
+2019-05-15T19:01:47.446Z js-sandbox:JSSandbox:main.js:emerg: Yo.
+2019-05-15T19:01:47.447Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:debug: Yo 2
+2019-05-15T19:01:47.447Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:info: Yo 2
+2019-05-15T19:01:47.447Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:note: Yo 2
+2019-05-15T19:01:47.448Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:warn: Yo 2
+2019-05-15T19:01:47.448Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:error: Yo 2
+2019-05-15T19:01:47.448Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:crit: Yo 2
+2019-05-15T19:01:47.449Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:alert: Yo 2
+2019-05-15T19:01:47.449Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:emerg: Yo 2
+2019-05-15T19:04:09.051Z js-sandbox:JSSandbox:main.js:debug: Yo.
+2019-05-15T19:04:09.053Z js-sandbox:JSSandbox:main.js:info: Yo.
+2019-05-15T19:04:09.054Z js-sandbox:JSSandbox:main.js:note: Yo.
+2019-05-15T19:04:09.054Z js-sandbox:JSSandbox:main.js:warn: Yo.
+2019-05-15T19:04:09.055Z js-sandbox:JSSandbox:main.js:error: Yo.
+2019-05-15T19:04:09.055Z js-sandbox:JSSandbox:main.js:crit: Yo.
+2019-05-15T19:04:09.055Z js-sandbox:JSSandbox:main.js:alert: Yo.
+2019-05-15T19:04:09.056Z js-sandbox:JSSandbox:main.js:emerg: Yo.
+2019-05-15T19:04:09.057Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:debug: Yo 2
+2019-05-15T19:04:09.057Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:info: Yo 2
+2019-05-15T19:04:09.057Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:note: Yo 2
+2019-05-15T19:04:09.058Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:warn: Yo 2
+2019-05-15T19:04:09.058Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:error: Yo 2
+2019-05-15T19:04:09.058Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:crit: Yo 2
+2019-05-15T19:04:09.058Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:alert: Yo 2
+2019-05-15T19:04:09.059Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:emerg: Yo 2
+2019-05-15T19:07:57.150Z js-sandbox:JSSandbox:main.js:debug: Yo.
+2019-05-15T19:07:57.153Z js-sandbox:JSSandbox:main.js:info: Yo.
+2019-05-15T19:07:57.154Z js-sandbox:JSSandbox:main.js:note: Yo.
+2019-05-15T19:07:57.155Z js-sandbox:JSSandbox:main.js:warn: Yo.
+2019-05-15T19:07:57.155Z js-sandbox:JSSandbox:main.js:error: Yo.
+2019-05-15T19:07:57.155Z js-sandbox:JSSandbox:main.js:crit: Yo.
+2019-05-15T19:07:57.156Z js-sandbox:JSSandbox:main.js:alert: Yo.
+2019-05-15T19:07:57.156Z js-sandbox:JSSandbox:main.js:emerg: Yo.
+2019-05-15T19:07:57.157Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:debug: Yo 2
+2019-05-15T19:07:57.157Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:info: Yo 2
+2019-05-15T19:07:57.157Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:note: Yo 2
+2019-05-15T19:07:57.157Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:warn: Yo 2
+2019-05-15T19:07:57.158Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:error: Yo 2
+2019-05-15T19:07:57.158Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:crit: Yo 2
+2019-05-15T19:07:57.158Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:alert: Yo 2
+2019-05-15T19:07:57.158Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:emerg: Yo 2
+2019-05-15T19:07:57.199Z js-sandbox:JSSandbox:main.js:debug: test_object: %o
+2019-05-15T19:07:57.218Z js-sandbox:JSSandbox:main.js:info: test_object: %o
+2019-05-15T19:07:57.219Z js-sandbox:JSSandbox:main.js:note: test_object: %o
+2019-05-15T19:07:57.219Z js-sandbox:JSSandbox:main.js:warn: test_object: %o
+2019-05-15T19:07:57.220Z js-sandbox:JSSandbox:main.js:error: test_object: %o
+2019-05-15T19:07:57.220Z js-sandbox:JSSandbox:main.js:crit: test_object: %o
+2019-05-15T19:07:57.221Z js-sandbox:JSSandbox:main.js:alert: test_object: %o
+2019-05-15T19:07:57.221Z js-sandbox:JSSandbox:main.js:emerg: test_object: %o
+2019-05-17T18:36:19.383Z /usr/local/bin/node:ApplicationLogStandard:application-log-standard.js:debug: Yo.
+2019-05-17T18:36:19.388Z /usr/local/bin/node:ApplicationLogStandard:application-log-standard.js:info: Yo.
+2019-05-17T18:36:19.388Z /usr/local/bin/node:ApplicationLogStandard:application-log-standard.js:note: Yo.
+2019-05-17T18:36:19.388Z /usr/local/bin/node:ApplicationLogStandard:application-log-standard.js:warn: Yo.
+2019-05-17T18:36:19.389Z /usr/local/bin/node:ApplicationLogStandard:application-log-standard.js:error: Yo.
+2019-05-17T18:36:19.389Z /usr/local/bin/node:ApplicationLogStandard:application-log-standard.js:crit: Yo.
+2019-05-17T18:36:19.389Z /usr/local/bin/node:ApplicationLogStandard:application-log-standard.js:alert: Yo.
+2019-05-17T18:36:19.390Z /usr/local/bin/node:ApplicationLogStandard:application-log-standard.js:emerg: Yo.
+2019-05-17T18:36:19.390Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:debug: Yo 2
+2019-05-17T18:36:19.391Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:info: Yo 2
+2019-05-17T18:36:19.391Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:note: Yo 2
+2019-05-17T18:36:19.391Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:warn: Yo 2
+2019-05-17T18:36:19.391Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:error: Yo 2
+2019-05-17T18:36:19.392Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:crit: Yo 2
+2019-05-17T18:36:19.392Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:alert: Yo 2
+2019-05-17T18:36:19.392Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:emerg: Yo 2
+2019-05-17T18:36:19.393Z /usr/local/bin/node:ApplicationLogStandard:application-log-standard.js:debug: test_object: %o
+2019-05-17T18:36:19.393Z /usr/local/bin/node:ApplicationLogStandard:application-log-standard.js:info: test_object: %o
+2019-05-17T18:36:19.393Z /usr/local/bin/node:ApplicationLogStandard:application-log-standard.js:note: test_object: %o
+2019-05-17T18:36:19.394Z /usr/local/bin/node:ApplicationLogStandard:application-log-standard.js:warn: test_object: %o
+2019-05-17T18:36:19.394Z /usr/local/bin/node:ApplicationLogStandard:application-log-standard.js:error: test_object: %o
+2019-05-17T18:36:19.394Z /usr/local/bin/node:ApplicationLogStandard:application-log-standard.js:crit: test_object: %o
+2019-05-17T18:36:19.394Z /usr/local/bin/node:ApplicationLogStandard:application-log-standard.js:alert: test_object: %o
+2019-05-17T18:36:19.395Z /usr/local/bin/node:ApplicationLogStandard:application-log-standard.js:emerg: test_object: %o
+2019-05-18T17:43:42.459Z debug: Yo.
+2019-05-18T17:43:42.462Z info: Yo.
+2019-05-18T17:43:42.462Z note: Yo.
+2019-05-18T17:43:42.462Z warn: Yo.
+2019-05-18T17:43:42.462Z error: Yo.
+2019-05-18T17:43:42.463Z crit: Yo.
+2019-05-18T17:43:42.463Z alert: Yo.
+2019-05-18T17:43:42.463Z emerg: Yo.
+2019-05-18T17:43:42.464Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:debug: Yo 2
+2019-05-18T17:43:42.464Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:info: Yo 2
+2019-05-18T17:43:42.464Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:note: Yo 2
+2019-05-18T17:43:42.464Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:warn: Yo 2
+2019-05-18T17:43:42.464Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:error: Yo 2
+2019-05-18T17:43:42.465Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:crit: Yo 2
+2019-05-18T17:43:42.465Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:alert: Yo 2
+2019-05-18T17:43:42.465Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:emerg: Yo 2
+2019-05-18T17:43:42.470Z debug: test_object: %o
+2019-05-18T17:43:42.471Z info: test_object: %o
+2019-05-18T17:43:42.472Z note: test_object: %o
+2019-05-18T17:43:42.472Z warn: test_object: %o
+2019-05-18T17:43:42.472Z error: test_object: %o
+2019-05-18T17:43:42.473Z crit: test_object: %o
+2019-05-18T17:43:42.473Z alert: test_object: %o
+2019-05-18T17:43:42.474Z emerg: test_object: %o
+2019-05-18T17:50:28.435Z debug: Yo.
+2019-05-18T17:50:28.437Z info: Yo.
+2019-05-18T17:50:28.438Z note: Yo.
+2019-05-18T17:50:28.438Z warn: Yo.
+2019-05-18T17:50:28.438Z error: Yo.
+2019-05-18T17:50:28.439Z crit: Yo.
+2019-05-18T17:50:28.439Z alert: Yo.
+2019-05-18T17:50:28.439Z emerg: Yo.
+2019-05-18T17:50:28.440Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:debug: Yo 2
+2019-05-18T17:50:28.440Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:info: Yo 2
+2019-05-18T17:50:28.440Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:note: Yo 2
+2019-05-18T17:50:28.440Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:warn: Yo 2
+2019-05-18T17:50:28.440Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:error: Yo 2
+2019-05-18T17:50:28.441Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:crit: Yo 2
+2019-05-18T17:50:28.441Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:alert: Yo 2
+2019-05-18T17:50:28.441Z /usr/local/bin/node:JS_Sandbox:/Users/cameron/dev/js-sandbox/main.js:main execution block:emerg: Yo 2
+2019-05-18T17:50:28.447Z debug: test_object: { a:
+   { b: { c: { d: [ [length]: 0 ], e: 'string' }, f: 1 },
+     g: [ 'yo', 'dog', 1, [length]: 3 ] },
+  h: true }
+2019-05-18T17:50:28.448Z info: test_object: { a:
+   { b: { c: { d: [ [length]: 0 ], e: 'string' }, f: 1 },
+     g: [ 'yo', 'dog', 1, [length]: 3 ] },
+  h: true }
+2019-05-18T17:50:28.449Z note: test_object: { a:
+   { b: { c: { d: [ [length]: 0 ], e: 'string' }, f: 1 },
+     g: [ 'yo', 'dog', 1, [length]: 3 ] },
+  h: true }
+2019-05-18T17:50:28.449Z warn: test_object: { a:
+   { b: { c: { d: [ [length]: 0 ], e: 'string' }, f: 1 },
+     g: [ 'yo', 'dog', 1, [length]: 3 ] },
+  h: true }
+2019-05-18T17:50:28.450Z error: test_object: { a:
+   { b: { c: { d: [ [length]: 0 ], e: 'string' }, f: 1 },
+     g: [ 'yo', 'dog', 1, [length]: 3 ] },
+  h: true }
+2019-05-18T17:50:28.450Z crit: test_object: { a:
+   { b: { c: { d: [ [length]: 0 ], e: 'string' }, f: 1 },
+     g: [ 'yo', 'dog', 1, [length]: 3 ] },
+  h: true }
+2019-05-18T17:50:28.450Z alert: test_object: { a:
+   { b: { c: { d: [ [length]: 0 ], e: 'string' }, f: 1 },
+     g: [ 'yo', 'dog', 1, [length]: 3 ] },
+  h: true }
+2019-05-18T17:50:28.451Z emerg: test_object: { a:
+   { b: { c: { d: [ [length]: 0 ], e: 'string' }, f: 1 },
+     g: [ 'yo', 'dog', 1, [length]: 3 ] },
+  h: true }
